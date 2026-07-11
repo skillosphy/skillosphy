@@ -1,7 +1,7 @@
 # Mohammad Hassaan
 
 <div align="center">
-<img src="assets/moi.png" width="391" height="381"/>
+<img src="assets/moi.png" width="291" height="281"/>
 </div>
 
 <p align="center">
