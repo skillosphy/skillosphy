@@ -6,7 +6,6 @@
 
 </td>
 <td valign="top" width="50%">
-<h3>🛠️ building weird stuff on the internet, one commit at a time</h3>
 <br>
 <!-- row 1 (1) -->
 <div align="center">
@@ -19,7 +18,7 @@
 </div>
 <!-- row 3 (3) -->
 <div align="center">
-<img src="assets/gaming.gif" width="88" height="31"/>
+<img src="assets/gaming.png" width="88" height="31"/>
 <img src="assets/keeb.gif" width="88" height="31"/>
 <img src="assets/larp.gif" width="88" height="31"/>
 </div>
