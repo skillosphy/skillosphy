@@ -1,17 +1,12 @@
 # Mohammad Hassaan
 
 <div align="center">
-<img src="assets/me.png" width="313 height="320"/>
+<img src="assets/myself.png" width="313 height="320"/>
 </div>
 
 <p align="center">
    <strong>gpus, systems, automation</strong>
 </p>
-
-<div align="center">
-<img src="assets/cpp.gif" width="88" height="31"/>
-</div>
-
 
 <div align="center">
 <img src="assets/cpp.gif" width="88" height="31"/>
