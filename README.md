@@ -1,10 +1,17 @@
+# Mohammad Hassaan
+
+**gpus**, **systems**, **automation**
+
+
+
+
 <!-- row 1 (1) -->
 <div align="center">
-<img src="assets/bug.gif" width="88" height="31"/>
+<img src="assets/cpp.gif" width="88" height="31"/>
 </div>
 <!-- row 2 (2) -->
 <div align="center">
-<img src="assets/cpp.gif" width="88" height="31"/>
+<img src="assets/bug.gif" width="88" height="31"/>
 <img src="assets/feedtheai.gif" width="88" height="31"/>
 </div>
 <!-- row 3 (3) -->
@@ -26,10 +33,11 @@
 <img src="assets/script.gif" width="88" height="31"/>
 <img src="assets/vsc.gif" width="88" height="31"/>
 <img src="assets/windows.gif" width="88" height="31"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="88" height="31"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="97" height="28"/>
 </div>
 <br>
 </td>
 </tr>
 </table>
 </div>
+
