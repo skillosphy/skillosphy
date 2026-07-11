@@ -1,12 +1,3 @@
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="assets/me.png" width="100%" alt="ascii portrait"/>
-
-</td>
-<td valign="top" width="50%">
-<br>
 <!-- row 1 (1) -->
 <div align="center">
 <img src="assets/bug.gif" width="88" height="31"/>
