@@ -2,32 +2,28 @@
 
 **gpus**, **systems**, **automation**
 
-
-
-
-<!-- row 1 (1) -->
 <div align="center">
 <img src="assets/cpp.gif" width="88" height="31"/>
 </div>
-<!-- row 2 (2) -->
+
 <div align="center">
 <img src="assets/bug.gif" width="88" height="31"/>
 <img src="assets/feedtheai.gif" width="88" height="31"/>
 </div>
-<!-- row 3 (3) -->
+
 <div align="center">
 <img src="assets/gaming.png" width="88" height="31"/>
 <img src="assets/keeb.gif" width="88" height="31"/>
 <img src="assets/larp.gif" width="88" height="31"/>
 </div>
-<!-- row 4 (4) -->
+
 <div align="center">
 <img src="assets/linearalgebra.gif" width="88" height="31"/>
 <img src="assets/linus.gif" width="88" height="31"/>
 <img src="assets/machinecode.gif" width="88" height="31"/>
 <img src="assets/nvidia.gif" width="88" height="31"/>
 </div>
-<!-- row 5 (4) -->
+
 <div align="center">
 <img src="assets/os.gif" width="88" height="31"/>
 <img src="assets/script.gif" width="88" height="31"/>
